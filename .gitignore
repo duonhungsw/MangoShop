@@ -1,0 +1,52 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# ASP.NET Core Secret Manager
+secrets.json
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Docker
+.dockerignore
+
+# Rider
+.idea/
+.idea/*
+
+# Visual Studio Code
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Dependency Directories
+packages/
+TestResults/
+
+# Resharper
+_ReSharper*/
+*/_ReSharper*/
+*.DotSettings.user
+
+# NPM Packages (Nếu có sử dụng frontend)
+node_modules/
+yarn.lock
+package-lock.json
